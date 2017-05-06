@@ -1,0 +1,25 @@
+{
+    "design": {
+        "dribbble": "http://dribbble.com/jobs.rss",
+        "smashing": "http://jobs.smashingmagazine.com/rss/all/all",
+        "zurb": "http://zurb.com/jobs/design/rss",
+        "behance": "http://feeds.feedburner.com/BehanceNetworkJoblist",
+        "jobsreservoir": "http://www.thejobsreservoir.com/feed/?post_type=job_listing",
+        "krop": "http://www.krop.com/services/feeds/rss/latest/",
+        "authenticjobs": "http://www.authenticjobs.com/feeds/",
+        "guardian": "http://jobs.guardian.co.uk/jobsrss/?Industry=237"
+    },
+    "development": {
+        "careers2": "http://careers.stackoverflow.com/jobs/feed",
+        "gigaom": "http://jobs.gigaom.com/feeds/rss20",
+        "github": "https://jobs.github.com/positions.atom",
+        "crunchboard": "http://feeds.feedburner.com/CrunchboardJobs"
+        
+    },
+    "tech": {
+        "brandrepublic": "http://jobs.brandrepublic.com/opensearch/"
+    },
+    "other": {
+        "guardian": "http://jobs.guardian.co.uk/jobsrss/"
+    }
+}

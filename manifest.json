@@ -1,0 +1,17 @@
+{
+  "name": "WeNeedPixels.com",
+  "description": "Jobs for Digital Designers",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "icons": {
+    "128": "icon_128.png"
+  },
+  "app": {
+    "urls": [
+      "http://www.weneedpixels.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.weneedpixels.com/"
+    }
+  }
+}
